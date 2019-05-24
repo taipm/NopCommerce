@@ -1,0 +1,14 @@
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\plugin.json
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\PublicInfo.cshtml
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\_ViewImports.cshtml
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.deps.json
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CoreCompileInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CopyComplete
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.dll
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.GoogleAnalytics.pdb

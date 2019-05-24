@@ -1,0 +1,15 @@
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\plugin.json
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\_ViewImports.cshtml
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.deps.json
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csprojAssemblyReference.cache
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfoInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfo.cs
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CopyComplete
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.dll
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.pdb

@@ -1,0 +1,16 @@
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Content\styles.css
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\plugin.json
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Views\Configure.cshtml
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Views\PaymentInfo.cshtml
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Views\_ViewImports.cshtml
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\logo.png
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.deps.json
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.dll
+C:\GitHub\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Square\Nop.Plugin.Payments.Square.pdb
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.csprojAssemblyReference.cache
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.csproj.CoreCompileInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.AssemblyInfoInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.AssemblyInfo.cs
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.csproj.CopyComplete
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.dll
+C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Square\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Square.pdb
