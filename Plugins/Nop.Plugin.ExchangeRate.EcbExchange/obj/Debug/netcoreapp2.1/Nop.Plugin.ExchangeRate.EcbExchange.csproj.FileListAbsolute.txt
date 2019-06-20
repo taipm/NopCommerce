@@ -10,3 +10,15 @@ C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\ob
 C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CopyComplete
 C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.dll
 C:\GitHub\nopCommerce_4.10_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\plugin.json
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.deps.json
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.csprojAssemblyReference.cache
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfoInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfo.cs
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CopyComplete
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.dll
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\netcoreapp2.1\Nop.Plugin.ExchangeRate.EcbExchange.pdb
