@@ -12810,11 +12810,11 @@
   "project": {
     "version": "4.1.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\nopCommerce_4.10_Source\\Libraries\\Nop.Core\\Nop.Core.csproj",
+      "projectUniqueName": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
       "projectName": "Nop.Core",
-      "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Libraries\\Nop.Core\\Nop.Core.csproj",
+      "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj",
       "packagesPath": "C:\\Users\\SURFACE\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Libraries\\Nop.Core\\obj\\",
+      "outputPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Libraries\\Nop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

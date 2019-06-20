@@ -14198,11 +14198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\nopCommerce_4.10_Source\\Plugins\\Nop.Plugin.Payments.Square\\Nop.Plugin.Payments.Square.csproj",
+      "projectUniqueName": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Plugins\\Nop.Plugin.Payments.Square\\Nop.Plugin.Payments.Square.csproj",
       "projectName": "Nop.Plugin.Payments.Square",
-      "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Plugins\\Nop.Plugin.Payments.Square\\Nop.Plugin.Payments.Square.csproj",
+      "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Plugins\\Nop.Plugin.Payments.Square\\Nop.Plugin.Payments.Square.csproj",
       "packagesPath": "C:\\Users\\SURFACE\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Plugins\\Nop.Plugin.Payments.Square\\obj\\",
+      "outputPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Plugins\\Nop.Plugin.Payments.Square\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14221,8 +14221,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\GitHub\\nopCommerce_4.10_Source\\Presentation\\Nop.Web\\Nop.Web.csproj": {
-              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Presentation\\Nop.Web\\Nop.Web.csproj"
+            "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Presentation\\Nop.Web\\Nop.Web.csproj": {
+              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Presentation\\Nop.Web\\Nop.Web.csproj"
             }
           }
         }

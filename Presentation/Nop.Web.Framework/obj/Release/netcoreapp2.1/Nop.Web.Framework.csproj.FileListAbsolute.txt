@@ -1,0 +1,16 @@
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.1\Nop.Web.Framework.deps.json
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.1\Nop.Web.Framework.dll
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.1\Nop.Web.Framework.pdb
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.1\Nop.Core.dll
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.1\Nop.Data.dll
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.1\Nop.Services.dll
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.1\Nop.Core.pdb
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.1\Nop.Data.pdb
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\bin\Release\netcoreapp2.1\Nop.Services.pdb
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.csprojAssemblyReference.cache
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.csproj.CoreCompileInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.AssemblyInfoInputs.cache
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.AssemblyInfo.cs
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.csproj.CopyComplete
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.dll
+C:\GitHub\nopCommerce_4.10_Source\NopCommerce\Presentation\Nop.Web.Framework\obj\Release\netcoreapp2.1\Nop.Web.Framework.pdb

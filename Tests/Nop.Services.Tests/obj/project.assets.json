@@ -15072,11 +15072,11 @@
   "project": {
     "version": "4.1.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\nopCommerce_4.10_Source\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
+      "projectUniqueName": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
       "projectName": "Nop.Services.Tests",
-      "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
+      "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Tests\\Nop.Services.Tests\\Nop.Services.Tests.csproj",
       "packagesPath": "C:\\Users\\SURFACE\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Tests\\Nop.Services.Tests\\obj\\",
+      "outputPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Tests\\Nop.Services.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15095,11 +15095,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\GitHub\\nopCommerce_4.10_Source\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
             },
-            "C:\\GitHub\\nopCommerce_4.10_Source\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
-              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Tests\\Nop.Tests\\Nop.Tests.csproj"
+            "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj": {
+              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj"
             }
           }
         }

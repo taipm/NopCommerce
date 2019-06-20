@@ -15049,11 +15049,11 @@
   "project": {
     "version": "4.1.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\nopCommerce_4.10_Source\\Tests\\Nop.Tests\\Nop.Tests.csproj",
+      "projectUniqueName": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj",
       "projectName": "Nop.Tests",
-      "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Tests\\Nop.Tests\\Nop.Tests.csproj",
+      "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Tests\\Nop.Tests\\Nop.Tests.csproj",
       "packagesPath": "C:\\Users\\SURFACE\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Tests\\Nop.Tests\\obj\\",
+      "outputPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Tests\\Nop.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15072,11 +15072,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\GitHub\\nopCommerce_4.10_Source\\Libraries\\Nop.Core\\Nop.Core.csproj": {
-              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Libraries\\Nop.Core\\Nop.Core.csproj"
+            "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj": {
+              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Libraries\\Nop.Core\\Nop.Core.csproj"
             },
-            "C:\\GitHub\\nopCommerce_4.10_Source\\Libraries\\Nop.Services\\Nop.Services.csproj": {
-              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\Libraries\\Nop.Services\\Nop.Services.csproj"
+            "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj": {
+              "projectPath": "C:\\GitHub\\nopCommerce_4.10_Source\\NopCommerce\\Libraries\\Nop.Services\\Nop.Services.csproj"
             }
           }
         }
